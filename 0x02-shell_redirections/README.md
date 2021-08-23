@@ -2,7 +2,7 @@
 ## this image shows the logic of what to expect.
 <br>
 # <u> Shell, I/O Redirections and filters logic diagram</u>
+
 ![logic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pipeline.svg/440px-Pipeline.svg.png)
-<br>
 
 
