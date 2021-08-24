@@ -29,4 +29,10 @@
 # **Other help pages**
 1. How to execute commands from a file in the current shell.
 
-![fun image]
+![fun image](https://blog2opstree.files.wordpress.com/2020/02/shell-initailizationfiles-1.png)
+
+> I love coding
+
+# FILES IN THIS DIRECTORY
+
+
